@@ -15,6 +15,7 @@ Today's agenda is as follows:
 
 ---
 
+# Notes
 
 ### Pnumatics
 
@@ -38,3 +39,12 @@ For the waffflemaker's open and closing system
 With the mix injector:
 - This system needs to not be in the way of the opening and closing
 - So it likely has to be above the whole thing and drip down from above
+
+
+---
+
+# Update
+
+The script used for servo control is a simple loop of opening and closing like an LED blinking to test the triggering of the opening and closing gates of the servo.
+
+We tested this with an LED which didnt work because Veed is probably an idiot. He will see what was wrong on his own time. Most of the meeting was educational with respect to how solenoids work and how pnumatic systems work. Hopefully wednesday we get mounts made in CAD and assemble the open/close system while a secondary group figures out how to test and apply the solenoid.
