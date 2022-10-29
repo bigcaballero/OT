@@ -49,3 +49,5 @@ delay(5000;) //waiting
 
 }
 ```
+
+Testing git from ipad
