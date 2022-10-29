@@ -8,3 +8,9 @@
 - [ ] [Solar Panel Charge Controller](https://www.amazon.com/EEEKit-Controller-Intelligent-Multi-Function-Adjustable/dp/B07R8TRJ8C/ref=sr_1_8?keywords=Solar+panel+charge+controller&qid=1667070826&qu=eyJxc2MiOiI1LjE0IiwicXNhIjoiNC43NyIsInFzcCI6IjQuMDgifQ%3D%3D&sr=8-8)
 - [ ] Soil Moisture sensor
 - [ ] Water level sensor
+
+
+
+Water level sensor is to override motor if the tank empties
+
+![](IMG_0658.png)
