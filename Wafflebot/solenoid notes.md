@@ -22,7 +22,7 @@ The first step is calling the pins we'll be working with for our solenoid
 
 int signal_pin = 21; //Pin 21 on the ESP32 (labeled on back)
 ```
-Here is the setup code for the paramters of the loop. The pinmode is set to output because it is sending information (signal triggering voltage to pass). Input would 
+Here is the setup code for the paramters of the loop. The pinmode is set to output because it is sending information (signal triggering voltage to pass). Input would be listening for trigegrs like buttons or sensor thresholds being hit
 
 ```c++
 void setup() {
