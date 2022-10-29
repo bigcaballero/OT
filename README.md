@@ -14,7 +14,7 @@ A solar powered drip system to automate the watering of a given crop setup.
 
 #### Short Term Goals
 
-- [ ] Buy the products listen in [solenoid notes](Wafflebot/solenoid%20notes.md)
+- [ ] Buy the products listed in [irrigator notes](Irrigator/Irrigator%20Notes.md)
 - [ ] Develop plans to winterize
 - [ ] Build a single attempt
 
