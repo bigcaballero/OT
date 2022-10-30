@@ -121,6 +121,9 @@
     ],
     "currentTab": 0
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "d0c5ad3d6a2955a4",
   "lastOpenFiles": [
     "Irrigator/Irrigator Notes.md",
