@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "b0d2eef7254ceecf",
+    "id": "1d8b7c6ce0bbe709",
     "type": "split",
     "children": [
       {
-        "id": "b94fcb5dba05c6b7",
+        "id": "b98e9446c2fd1e68",
         "type": "tabs",
         "children": [
           {
-            "id": "8d31355a038e0c14",
+            "id": "d0c5ad3d6a2955a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Irrigator/Irrigator Example.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7bfeb81e09e8f43b",
+    "id": "89f18c11cdbaf79a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "d9580457ffbad69c",
+        "id": "8b64b363a498ddfd",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +39,7 @@
         }
       },
       {
-        "id": "2124269f3dcc88ad",
+        "id": "a6535cab444499d7",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +54,7 @@
         }
       },
       {
-        "id": "f97441a97d835705",
+        "id": "ec4d5c90fef167a3",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +65,7 @@
         }
       },
       {
-        "id": "96af3724b28cdc53",
+        "id": "fb737750567e1397",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -72,15 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "044dd45640d1df8c",
+    "id": "f46ea206862abbce",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cbda2b4a4d893635",
+        "id": "ac12d4a536f1c8a4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Irrigator/Irrigator Example.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -92,27 +97,39 @@
         }
       },
       {
-        "id": "20f3f5f001b58896",
+        "id": "153128aa68864d42",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Irrigator/Irrigator Example.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "f61c466677699c96",
+        "id": "7ee92ca37472c7c7",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Irrigator/Irrigator Example.md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "8d31355a038e0c14",
-  "lastOpenFiles": []
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "d0c5ad3d6a2955a4",
+  "lastOpenFiles": [
+    "Irrigator/Irrigator Notes.md",
+    "Irrigator/Irrigator Example.md",
+    "Wafflebot/Oct 29 Construction Meeting.md",
+    "Irrigator/Soil Moisture Sensor Example.md",
+    "Wafflebot/solenoid notes.md"
+  ]
 }
