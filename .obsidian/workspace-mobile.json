@@ -11,11 +11,9 @@
             "id": "b943866eb8261588",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Wafflebot/Nov 3, 2022.md",
-                "mode": "source",
-                "source": false
+                "file": "Wafflebot/Pasted image 20221103192953.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Wafflebot/Nov 3, 2022.md",
+            "file": "Wafflebot/Pasted image 20221103192953.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Wafflebot/Nov 3, 2022.md",
+            "file": "Wafflebot/Pasted image 20221103192953.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,15 +112,17 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Wafflebot/Nov 3, 2022.md"
+            "file": "Wafflebot/Pasted image 20221103192953.jpg"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "b943866eb8261588",
+  "active": "d9580457ffbad69c",
   "lastOpenFiles": [
+    "Wafflebot/solenoid notes.md",
+    "Wafflebot/Pasted image 20221103193155.jpg",
     "Wafflebot/Nov 3, 2022.md"
   ]
 }
