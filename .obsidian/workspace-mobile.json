@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b94fcb5dba05c6b7",
+        "id": "ae805fce6f5b8029",
         "type": "tabs",
         "children": [
           {
-            "id": "8d31355a038e0c14",
+            "id": "b943866eb8261588",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "Wafflebot/Pasted image 20221103192953.jpg"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Wafflebot/Pasted image 20221103192953.jpg",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Wafflebot/Pasted image 20221103192953.jpg",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,12 +111,18 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Wafflebot/Pasted image 20221103192953.jpg"
+          }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "8d31355a038e0c14",
-  "lastOpenFiles": []
+  "active": "d9580457ffbad69c",
+  "lastOpenFiles": [
+    "Wafflebot/solenoid notes.md",
+    "Wafflebot/Pasted image 20221103193155.jpg",
+    "Wafflebot/Nov 3, 2022.md"
+  ]
 }
